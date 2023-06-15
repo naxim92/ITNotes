@@ -1,0 +1,16 @@
+#ansible 
+
+- комментарии в template:
+	`{# blabla #}`
+
+- ad-hoc комманды
+	`ansible cs49858 -i ansible2/i/selectel-sandbox-2 -m shell -a "echo test"`
+
+ansible sl0040-sl0044 -i ansible2/i/selectel-spb-1 -m shell -a "echo $HOSTNAME `ifconfig | grep inet | grep 192.168 | awk '{ print $2 }'`"
+sed '/.*CHANGED.*/d' /tmp/1
+
+./da ansible all -l 'all:!127.0.0.1' -i i/selectel-spb-1 -m shell -a "echo \`cat /etc/hostname\` \`sudo ifconfig | grep inet | grep 192.168 | awk '{ print \$2 }'\`" > /tmp/1 && sed -ri '/.*CHANGED.*/d' /tmp/1 && sed -ri "s/\x1B\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g"
+
+./da ansible cs34050,cs34313,cs34314,cs41162,cs47522,cs47523 -i i/selectel-spb-1 -m shell -a "less product.assistent/log/listen_queue.light-unique.log-2021061*.gz | grep 'crm:tags:process' | grep 'career' || echo 'NOT FOUND'"
+
+- `ansible-playbook -i vyos.example.net, -u ansible -k -e`

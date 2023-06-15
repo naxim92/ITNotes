@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "_files",
+  "promptDelete": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "ru"
+  ],
+  "trashOption": "system",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false
+}

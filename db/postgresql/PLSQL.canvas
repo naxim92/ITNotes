@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"text","text":"DDL","id":"87d504df02b874aa","x":-280,"y":-220,"width":120,"height":60},
+		{"type":"text","text":"","id":"aa9b18e794430a72","x":-160,"y":440,"width":250,"height":60},
+		{"type":"text","text":"``` PLSQL\nCREATE TABLE [IF NOT EXISTS]\ntable_name\n(\nid serial PRIMARY KEY\ncolumn1 datatype(length) column_contraint,\ncolumn2 datatype(length) column_contraint,\ntable_constraints );\n```\n","id":"44bb13a230aacb39","x":-1120,"y":-80,"width":460,"height":200,"color":"2"}
+	],
+	"edges":[
+		{"id":"7345226c6f9d95a6","fromNode":"87d504df02b874aa","fromSide":"left","toNode":"44bb13a230aacb39","toSide":"top"}
+	]
+}
