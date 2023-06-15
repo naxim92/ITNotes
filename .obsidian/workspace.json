@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devops/git/submodule.md",
+                "file": "diary/2023-06-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "devops/git/submodule.md",
+                "file": "diary/2023-06-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "devops/git/submodule.md",
+                "file": "diary/2023-06-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "devops/git/submodule.md"
+                "file": "diary/2023-06-15.md"
               }
             }
           }
@@ -157,9 +157,10 @@
   },
   "active": "8cfb3390140d04c3",
   "lastOpenFiles": [
-    "diary/2023-06-15.md",
-    "devops/git/submodule.md",
     "work/README.md",
+    "diary/2023-06-15.md",
+    "diary/README.md",
+    "devops/git/submodule.md",
     "work/New folder",
     "prog/bash/cycles.md",
     "devops/docker/essential.md",
@@ -185,7 +186,6 @@
     "os/linux/swap и виртуальная память.md",
     "Roadmap.canvas",
     "devops/ansible/reсepies.md",
-    "devops/ansible/old-tips.md",
     "_files/calver_naming.png",
     "_files/Pasted image 20230316221750.png",
     "_files/Pasted image 20230523212709.png",
