@@ -1,0 +1,6 @@
+[submodule "diary"]
+	path = diary
+	url = https://github.com/naxim92/diary-notes.git
+[submodule "work"]
+	path = work
+	url = https://github.com/naxim92/work-notes
