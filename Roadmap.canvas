@@ -23,12 +23,12 @@
 		{"type":"text","text":"Оркестрация контейнеров\n\n-------------\n\n- Никак не знаю","id":"61e415783bc832ae","x":-364,"y":-814,"width":392,"height":240,"color":"1"},
 		{"type":"text","text":"Gitops\n#gitops \n\n--------\n- Прослушал вебинар\n- Никак не знаю\n- Практики нет","id":"bd428a550864cf14","x":-364,"y":-501,"width":392,"height":341,"color":"1"},
 		{"type":"text","text":"Ansible\n#ansible \n\n------\n- Хорошо знаю\n- Есть большой практический опыт\n- Многое забылось\n- В целом могу организовать работу с нуля\n- Работал со старой версией","id":"164cb8ee5b007811","x":-364,"y":-120,"width":392,"height":427,"color":"4"},
-		{"type":"text","text":"Postgresql\n#psql \n\n-----\n- Интересная тема\n- Имею опыт администрирования на проде в крупном проекте\n- Понимание отрывочное\n- Не знаю индексы\n- Не знаю как тюнить ОС под перформанс\n- Не знаю как устроен внутри\n- Имею неплохое представление о бекапах\n- Имею неплохое представление о кластеризации\n- Имею базовый опыт с pgbouncer","id":"040ee31d4744836e","x":-2055,"y":-1335,"width":396,"height":626,"color":"3"},
+		{"type":"text","text":"Postgresql\n#psql \n\n-----\n- Интересная тема\n- Имею опыт администрирования на проде в крупном проекте\n- Понимание отрывочное\n- Не знаю индексы\n- Не знаю как тюнить ОС под перформанс\n- Не знаю как устроен внутри\n- Имею неплохое представление о бекапах\n- Имею хорошее представление о master-slave replication #replication \n- Имею базовый опыт с pgbouncer","id":"040ee31d4744836e","x":-2055,"y":-1335,"width":396,"height":655,"color":"3"},
 		{"type":"text","text":"Elasticsearch\n\n------\n- Работал\n- Плохо пишу запросы\n- Настраивал Opendistro\n- Интересен только в кластере\n- Не работал с кластером\n- Интересен для полнотекстового поиска","id":"5ca58694686729ce","x":-2636,"y":-761,"width":396,"height":480,"color":"2"},
 		{"type":"text","text":"SQL\n#sql\n\n------\n- Интересная тема\n- Плохо знаю\n- Есть практика\n- Плохо читаю explain\n- Не умею в индексы, сложные запросы\n- Плохо знаю структуры данных (деревья и тд)","id":"57ee27e780bbee9d","x":-2636,"y":-1325,"width":396,"height":506,"color":"2"},
 		{"type":"text","text":"Redis\n\n-------\n- Видел в проде\n- Опыта работы нет\n- Знаний нет","id":"69add4ab545cf32f","x":-2055,"y":-151,"width":396,"height":314,"color":"1"},
 		{"type":"text","text":"Clickhouse\n\n-------\n- Видел в проде\n- Опыта работы нет\n- Знаний нет","id":"3598bb0860ddd6da","x":-2636,"y":-240,"width":396,"height":314,"color":"1"},
-		{"type":"text","text":"Стратегии деплоя\n\n-----\n- Плохо знаю","id":"fc5fac13e9ed6297","x":-364,"y":340,"width":392,"height":260,"color":"2"},
+		{"type":"text","text":"Стратегии деплоя\n#deploy_strategy\n\n-----\n- Плохо знаю","id":"fc5fac13e9ed6297","x":-364,"y":340,"width":392,"height":300,"color":"2"},
 		{"type":"text","text":"Web security\n\n------\n- Плохие знания","id":"340f38d4a1bf09b2","x":865,"y":-1269,"width":392,"height":252,"color":"1"},
 		{"type":"text","text":"Docker security\n\n------\n- Надо узнать как чекать на безопасность контейнеры\n- Sonar Coub","id":"f5560f4dc726c971","x":865,"y":-969,"width":392,"height":339,"color":"1"},
 		{"type":"text","text":"Make\n#makefile \n\n-----\n- Есть хорошая практика\n- Средние знания","id":"994f619d347bdb98","x":-935,"y":788,"width":400,"height":332,"color":"3"},
@@ -45,7 +45,8 @@
 		{"type":"text","text":"Web","id":"862d631aadcf6f10","x":-1525,"y":-2110,"width":250,"height":50,"color":"#6a83be"},
 		{"type":"text","text":"Менеджеры приложений\n\n-----\n- Средние и ниже средних знания\n- Есть опыт работы с uwsgi, php-fpm","id":"539d4a3ba809017c","x":-1275,"y":-3138,"width":392,"height":289,"color":"2"},
 		{"type":"text","text":"Nginx\n#nginx \n\n-------\n- Есть опыт\n- Средние знания\n- Видел на проде сложные конфигурации\n- Не знаю кэш\n- Не знаю перформанс\n- Плохо знаю proxy_pass, rewrite\n- Плохо знаю безопасноть","id":"0b7545628abb01f5","x":-1275,"y":-2794,"width":392,"height":511,"color":"3"},
-		{"id":"4d771598eabb1e27","x":348,"y":490,"width":392,"height":340,"color":"2","type":"text","text":"Terraform\n\n------\n- Есть небольшая практика\n- Слабые знания"}
+		{"type":"text","text":"Terraform\n#terraform\n\n------\n- Есть небольшая практика\n- Слабые знания","id":"4d771598eabb1e27","x":348,"y":490,"width":392,"height":340,"color":"2"},
+		{"type":"text","text":"Организация ФС\n#inode\n\n--------\n- Неплохо знаю общую теорию\n- Хороший уровень для прохождения собеседований","id":"1ae2005028f1cf5e","x":-1480,"y":280,"width":360,"height":340,"color":"3"}
 	],
 	"edges":[
 		{"id":"11913c020e203889","fromNode":"1ba8e384603207d4","fromSide":"bottom","toNode":"ed7db1827ce72d81","toSide":"top"},
@@ -92,6 +93,7 @@
 		{"id":"c480653f6fa4368b","fromNode":"b100f54e11686410","fromSide":"top","toNode":"1ba2d59ea36e0e6a","toSide":"bottom"},
 		{"id":"6056a72b029a3e64","fromNode":"1ba8e384603207d4","fromSide":"top","toNode":"b100f54e11686410","toSide":"bottom"},
 		{"id":"a30b9dcdf7646b9f","fromNode":"1ba8e384603207d4","fromSide":"top","toNode":"862d631aadcf6f10","toSide":"bottom"},
-		{"id":"6737a6b698488bdf","fromNode":"e09302a3f83fbc41","fromSide":"bottom","toNode":"4d771598eabb1e27","toSide":"left"}
+		{"id":"6737a6b698488bdf","fromNode":"e09302a3f83fbc41","fromSide":"bottom","toNode":"4d771598eabb1e27","toSide":"left"},
+		{"id":"fdd398e6b46c8e61","fromNode":"5db3f0e01fb2f522","fromSide":"bottom","toNode":"1ae2005028f1cf5e","toSide":"left"}
 	]
 }

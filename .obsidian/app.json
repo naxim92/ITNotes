@@ -1,10 +1,7 @@
 {
   "attachmentFolderPath": "_files",
   "promptDelete": false,
-  "spellcheckLanguages": [
-    "en-US",
-    "ru"
-  ],
+  "spellcheckLanguages": null,
   "trashOption": "system",
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,

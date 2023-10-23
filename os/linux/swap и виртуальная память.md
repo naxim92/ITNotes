@@ -79,3 +79,4 @@
 	7ff2f7e50000-7ff2f7e5e000 r--p 00000000 00:00 780209             /usr/lib/x86_64-linux-gnu/libtinfo.so.6.2
 	7ff2f7e5e000-7ff2f7e6d000 r-xp 0000e000 00:00 780209             /usr/lib/x86_64-linux-gnu/libtinfo.so.6.2
 ```
+- The maximum number of memory map areas is 262144

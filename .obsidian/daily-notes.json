@@ -1,3 +1,4 @@
 {
-  "folder": "diary"
+  "folder": "diary",
+  "template": "_templates/diary"
 }
