@@ -1,1 +1,9 @@
-.obsidian/workspace.json
+# Obsidian runtime stuff
+.obsidian/workspace*
+.obsidian/cache/
+.obsidian/logs/
+.obsidian/graph.json
+
+# OS
+.DS_Store
+Thumbs.db
